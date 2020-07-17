@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Citas", "description": "Mis Citas" },
-    { "id": 2, "title": "Médicos", "description": "Disponibles" },
-    { "id": 3, "title": "Especialidades", "description": "Disponibles" }
+    { "id": 1, "title": "Citas", "description": "Mis Citas", "url": "https://i.pinimg.com/236x/02/33/3e/02333e315d0523c72e5fe8674c8c8ba0--anklet-tattoos-writers.jpg"},
+    { "id": 2, "title": "Médicos", "description": "Disponibles", "url": "https://i.pinimg.com/236x/02/33/3e/02333e315d0523c72e5fe8674c8c8ba0--anklet-tattoos-writers.jpg"},
+    { "id": 3, "title": "Especialidades", "description": "Disponibles", "url": "https://i.pinimg.com/236x/02/33/3e/02333e315d0523c72e5fe8674c8c8ba0--anklet-tattoos-writers.jpg" }
   ],
   "comments": [
     { "id": 1, "body": "comment 1", "postId": 1 },
