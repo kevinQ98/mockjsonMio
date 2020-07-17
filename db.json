@@ -1,0 +1,16 @@
+
+{
+  "listatablas": [
+    { "title": "Citas", "description": "Citas Programadas o pasadas" },
+    { "title": "Medicos", "description": "Medicos Disponibles" },
+    { "title": "Especialidades", "description": "Especialidades Disponibles" }
+    { "title": "Paciente", "description": "Informacion" }
+  ],
+  "comments": [
+    { "id": 1, "body": "comment 1", "postId": 1 },
+    { "id": 2, "body": "comment 2", "postId": 1 }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
