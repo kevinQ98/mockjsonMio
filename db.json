@@ -3,7 +3,6 @@
     { "id": 1, "title": "Citas", "description": "Mis Citas" },
     { "id": 2, "title": "Médicos", "description": "Disponibles" },
     { "id": 3, "title": "Especialidades", "description": "Disponibles" }
-    { "id": 4, "title": "Paciente", "description": "Mi Informacion" }
   ],
   "comments": [
     { "id": 1, "body": "comment 1", "postId": 1 },
