@@ -1,7 +1,7 @@
 {
   "posts": [
-    { "id": 1, "title": "Citas", "description": "Mis Citas", "url": "https://i.pinimg.com/236x/02/33/3e/02333e315d0523c72e5fe8674c8c8ba0--anklet-tattoos-writers.jpg"},
-    { "id": 2, "title": "Médicos", "description": "Disponibles", "url": "https://i.pinimg.com/236x/02/33/3e/02333e315d0523c72e5fe8674c8c8ba0--anklet-tattoos-writers.jpg"},
+    { "id": 1, "title": "Citas", "description": "Mis Citas", "url": "https://previews.123rf.com/images/martialred/martialred1611/martialred161100068/66078450-calendario-o-agenda-de-citas-icono-del-arte-de-l%C3%ADnea-para-aplicaciones-y-sitios-web.jpg"},
+    { "id": 2, "title": "Médicos", "description": "Disponibles", "url": "https://cdn.icon-icons.com/icons2/944/PNG/512/medical-29_icon-icons.com_73943.png"},
     { "id": 3, "title": "Especialidades", "description": "Disponibles", "url": "https://i.pinimg.com/236x/02/33/3e/02333e315d0523c72e5fe8674c8c8ba0--anklet-tattoos-writers.jpg" }
   ],
   "comments": [
